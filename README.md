@@ -1,4 +1,4 @@
-#### Distributed key-value store with BFT
+## Distributed key-value store with BFT
 This is a hobbyist project focused on creating a Byzantine fault-tolerant (BFT) distributed system over unreliable networks with quorum certificates, view changes and leader election designed for a fictitious facility that will use this distributed system for real-life applications.
 
 ### BFT advantages
