@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "0ea90110a0139c0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc4813156aac6b85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0be222d0bf540123",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e34d964867482ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "06374ebb821a7167",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "155712ba5f0c4b3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "744178c2f1090619",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "94cdd8744a363844",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dcb103c49874150c",
+    "type": "split",
+    "children": [
+      {
+        "id": "148d57759314e7fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80aca7005d7f7a53",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f8b581d724ebd0de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "24422cebc361dad3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6467148de9158afb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2ea4f924e079022c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0be222d0bf540123",
+  "lastOpenFiles": [
+    "target/debug/incremental/demeter_1-12dp0kzw3mk33/s-hi4hcfa67x-0551g70-bsnfnm3mmb6euvnys7gpbn3sf/work-products.bin",
+    "target/debug/incremental/demeter_1-12dp0kzw3mk33/s-hi4hcfa67x-0551g70-bsnfnm3mmb6euvnys7gpbn3sf/query-cache.bin",
+    "target/debug/incremental/demeter_1-12dp0kzw3mk33/s-hi4hcfa67x-0551g70-bsnfnm3mmb6euvnys7gpbn3sf/dep-graph.bin",
+    "target/debug/incremental/demeter_1-12dp0kzw3mk33/s-hi4hcfa67x-0551g70-bsnfnm3mmb6euvnys7gpbn3sf",
+    "target/debug/deps/libdemeter_1-8574c211d6f28b47.rmeta",
+    "target/debug/incremental/demeter_1-010q5q8wc2m0q/s-hi4hcfa435-0nw8kbc-6ycq3ugl3zjzeagiq0mj6v8nf/work-products.bin",
+    "target/debug/incremental/demeter_1-010q5q8wc2m0q/s-hi4hcfa435-0nw8kbc-6ycq3ugl3zjzeagiq0mj6v8nf/query-cache.bin",
+    "target/debug/incremental/demeter_1-010q5q8wc2m0q/s-hi4hcfa435-0nw8kbc-6ycq3ugl3zjzeagiq0mj6v8nf/dep-graph.bin",
+    "target/debug/incremental/demeter_1-010q5q8wc2m0q/s-hi4hcfa435-0nw8kbc-6ycq3ugl3zjzeagiq0mj6v8nf",
+    "target/debug/deps/demeter_1-8574c211d6f28b47.d",
+    "target/debug/deps/libdemeter_1-53899b499893c468.rmeta",
+    "README.md",
+    "Welcome.md"
+  ]
+}
