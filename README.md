@@ -1,4 +1,4 @@
-## Distributed key-value store with BFT
+## Distributed key-value store with BFT (WIP)
 This is a hobbyist project focused on creating a Byzantine fault-tolerant (BFT) distributed system over unreliable networks with quorum certificates, view changes and leader election designed for a fictitious facility that will use this distributed system for real-life applications.
 
 ### BFT advantages
@@ -14,7 +14,7 @@ DEMETER-1 (Deep Earth Magma Energy Transfer & Experimental Reactor) is a geother
 DEMETER-1, other than being a powerful power plant, is also a multi-national scientific and energy facility with 3 main co-located missions
 ### Mission 1: Magma-Thermal Energy Extraction
 * 12 geothermal wells drilled 8 kilometres deep into the magma chamber inside the caldera
-	* Supercritical $CO_2$ circulated to extract $500\;MW$ of base load power, enough for 360,000 homes
+	* Supercritical $CO_2$ circulated to extract $500MW$ of base load power, enough for 360,000 homes
 * Hydrogen electrolysis for green fuel
 
 ### Mission 2: Neutrino Observatory Extension
